@@ -1,0 +1,15 @@
+{
+  "name": "webstore",
+  "version": "1.0.0",
+  "description": "backend to webstore project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "josias",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.5.1"
+  }
+}
